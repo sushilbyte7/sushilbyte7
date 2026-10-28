@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><b>Sushil Kumar</b> · Full-Stack Developer</p>
-
+<p align="center"><a href="https://www.devsushil.in/">www.devsushil.in</a> &nbsp;·&nbsp; <a href="mailto:sushilbyte7@mail.com">sushilbyte7@mail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/sushilbyte7/">LinkedIn</a></p>
 
 > **Mission brief.** the more you try the more you will realize how deep the ocean is.......
 >
